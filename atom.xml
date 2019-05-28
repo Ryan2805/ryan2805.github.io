@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryan2805.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-05-28T13:57:53.650Z</updated>
+    <title>顺其自然</title>
+    <updated>2019-05-28T13:59:46.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ryan2805.github.io"/>
     <link rel="self" href="https://ryan2805.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Hello, World</subtitle>
     <logo>https://ryan2805.github.io/images/avatar.png</logo>
     <icon>https://ryan2805.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 顺其自然</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ryan2805.github.io/post/hello-gridea</id>
