@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryan2805.github.io</id>
     <title>顺其自然</title>
-    <updated>2019-05-29T05:31:48.971Z</updated>
+    <updated>2019-05-29T05:35:41.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ryan2805.github.io"/>
     <link rel="self" href="https://ryan2805.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://ryan2805.github.io/images/avatar.png</logo>
     <icon>https://ryan2805.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 顺其自然</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://ryan2805.github.io/post/1</id>
+        <link href="https://ryan2805.github.io/post/1">
+        </link>
+        <updated>2019-05-29T05:35:07.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ryan2805.github.io/post/hello-gridea</id>
