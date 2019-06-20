@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ryan2805.github.io</id>
     <title>顺其自然</title>
-    <updated>2019-06-20T08:49:42.119Z</updated>
+    <updated>2019-06-20T08:56:02.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ryan2805.github.io"/>
     <link rel="self" href="https://ryan2805.github.io/atom.xml"/>
@@ -16,5 +16,9 @@
         <link href="https://ryan2805.github.io/post/2">
         </link>
         <updated>2019-06-20T07:39:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>宽容度通常是判断相机性能的重要参数之一，它是指相机的能容纳景物亮度反差的范围，宽容度越大，容纳的明暗范围也就越大，暗部不至于死黑，亮部也不至于死白，相机的性能也就越好。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>宽容度通常是判断相机性能的重要参数之一，它是指相机的能容纳景物亮度反差的范围，宽容度越大，容纳的明暗范围也就越大，暗部不至于死黑，亮部也不至于死白，相机的性能也就越好。</p>
+]]></content>
     </entry>
 </feed>
